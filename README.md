@@ -6,4 +6,4 @@ Espaço para o trabalho de preparação e arranque dos componentes do [MPPT24OS]
 
 ## Estado · Em evolução
 
-Esta primeira publicação contém a apresentação do projeto. O índice do MPPT24OS indica onde consultar os componentes já publicados.
+Esta primeira publicação contém a apresentação do projeto. O arranque automático ainda está em preparação. Para testar um componente por si só, consulta as instruções desse componente no [índice dos projetos publicados](https://github.com/mppt24/MPPT24OS#explorar-os-projetos).
