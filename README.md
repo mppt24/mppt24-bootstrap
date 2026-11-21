@@ -2,6 +2,6 @@
 
 Espaço para o trabalho de preparação e arranque dos componentes do [MPPT24OS](https://github.com/mppt24/MPPT24OS).
 
-## Estado
+## Estado · Em evolução
 
-Repositório em preparação. Esta primeira publicação contém a apresentação do projeto. O índice do MPPT24OS indica onde consultar os componentes já publicados.
+Esta primeira publicação contém a apresentação do projeto. O índice do MPPT24OS indica onde consultar os componentes já publicados.
