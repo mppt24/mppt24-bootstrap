@@ -1,5 +1,7 @@
 # MPPT24 Bootstrap
 
+[Guia de leitura, infográfico e cuidados](GUIA.md)
+
 Espaço para o trabalho de preparação e arranque dos componentes do [MPPT24OS](https://github.com/mppt24/MPPT24OS).
 
 ## Estado · Em evolução
